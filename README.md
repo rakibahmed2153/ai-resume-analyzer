@@ -2,7 +2,7 @@
 
 A modern app to make your resume job-ready.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+Live Link ~ https://myresumeanalyzerai.netlify.app/
 
 ## Features
 
